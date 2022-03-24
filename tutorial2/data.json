@@ -1,0 +1,25 @@
+{
+  "db": [],
+  "contact": [
+    {
+      "email": "su6063231a1@gmail.com",
+      "password": "sadasdadadsad",
+      "id": 1
+    },
+    {
+      "email": "su6063231a@gmail.com",
+      "password": "sdfgsdf",
+      "id": 2
+    },
+    {
+      "email": "su6063231a@gmail.com",
+      "password": "sdfgsdf",
+      "id": 3
+    },
+    {
+      "email": "jago@gmail.com",
+      "password": "99874545",
+      "id": 4
+    }
+  ]
+}
