@@ -1,6 +1,7 @@
 import { useEffect,useState } from "react"
 import { Container, Row } from "react-bootstrap"
 import CardComponent from "./components/CardComponent"
+import React from 'react';
 
 export default function BlogPage({ auth }) {
     const [posts,setPosts] = useState([])
